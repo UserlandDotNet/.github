@@ -671,17 +671,11 @@ await Curl.Get(url).SendAsync();  // Safe, validated, secure
 
 ## Success Stories
 
-> "We replaced 2,000 lines of HttpClient code with 200 lines of CurlDotNet. Testing time dropped 80%."  
-> — *Fortune 500 Enterprise Customer*
-
 > "Finally, I can paste curl commands from Stack Overflow directly into my C# code!"  
-> — *Solo Developer*
-
-> "CurlDotNet saved us weeks migrating from bash scripts to .NET microservices."  
-> — *DevOps Team Lead*
 
 > "The ability to generate C# code from curl commands changed how we onboard new APIs."  
-> — *API Integration Specialist*
+ 
+> We would love to hear your story
 
 ## Contributing
 
